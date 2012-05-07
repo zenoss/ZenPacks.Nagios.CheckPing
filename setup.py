@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.Nagios.CheckPing'
 VERSION = '1.0'
 AUTHOR = 'Michael C. Hoffman'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Nagios']
 PACKAGES = ['ZenPacks', 'ZenPacks.Nagios', 'ZenPacks.Nagios.CheckPing']
 INSTALL_REQUIRES = []
